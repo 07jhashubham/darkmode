@@ -1,2 +1,2 @@
 # darkmode
-[!(https://i.ibb.co/sygxqFz/fylo.png)]
+![Website Look](https://i.ibb.co/sygxqFz/fylo.png)
